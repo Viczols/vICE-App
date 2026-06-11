@@ -76,7 +76,13 @@ Database:
 
 ## Screenshots
 
-Screenshots will be added soon.
+<img width="3828" height="1902" alt="Ekran görüntüsü 2026-06-11 204521" src="https://github.com/user-attachments/assets/70ecbe5b-2931-4cee-a93a-6c35887d6243" />
+<img width="3825" height="1898" alt="Ekran görüntüsü 2026-06-11 204535" src="https://github.com/user-attachments/assets/b365e6f3-b329-4304-8f39-63ea6c3e90ed" />
+<img width="3821" height="1911" alt="Ekran görüntüsü 2026-06-11 205041" src="https://github.com/user-attachments/assets/296ea796-82bf-4005-8d55-6711a9ecf01f" />
+<img width="3827" height="1902" alt="Ekran görüntüsü 2026-06-11 205157" src="https://github.com/user-attachments/assets/461081a9-db92-433e-9764-2bd3318cd4ea" />
+<img width="3760" height="1962" alt="Ekran görüntüsü 2026-06-11 205631" src="https://github.com/user-attachments/assets/5faba14d-97e3-44a8-8e6c-9f9893a734dc" />
+<img width="3771" height="1967" alt="Ekran görüntüsü 2026-06-11 205656" src="https://github.com/user-attachments/assets/dd9a717e-f676-4424-b998-50d5b8d06d3b" />
+<img width="3837" height="1908" alt="Ekran görüntüsü 2026-06-11 210040" src="https://github.com/user-attachments/assets/d60e8b95-c386-42c0-b360-850a0e3f3e84" />
 
 ## License
 
