@@ -84,6 +84,8 @@ Database:
 <img width="3771" height="1967" alt="Ekran görüntüsü 2026-06-11 205656" src="https://github.com/user-attachments/assets/dd9a717e-f676-4424-b998-50d5b8d06d3b" />
 <img width="3837" height="1908" alt="Ekran görüntüsü 2026-06-11 210040" src="https://github.com/user-attachments/assets/d60e8b95-c386-42c0-b360-850a0e3f3e84" />
 
+<img width="3829" height="1903" alt="Ekran görüntüsü 2026-06-11 211437" src="https://github.com/user-attachments/assets/64b6154d-951f-4f67-9b11-c4b804b47550" />
+
 ## License
 
 This project was developed for educational and portfolio purposes.
